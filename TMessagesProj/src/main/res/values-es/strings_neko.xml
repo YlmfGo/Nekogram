@@ -34,7 +34,7 @@
     <string name="Valentine">Día de San Valentín</string>
     <string name="Snowflakes">Copos de nieve</string>
     <string name="Fireworks">Fuegos artificiales</string>
-    <string name="SomeItemsNeedRestart">Las opciones con * requieren reiniciar para surtir efecto.</string>
+    <string name="SomeItemsNeedRestart">Las opciones con * requieren reiniciar la app para surtir efecto.</string>
     <string name="DeleteDownloadedFile">Borrar archivo descargado</string>
     <string name="TestBackend">Backend de Prueba</string>
     <string name="TestBackendOn">Esta cuenta se conectará con el backend de prueba.</string>
@@ -71,10 +71,10 @@
     <string name="ProviderLingocloud">Lingocloud</string>
     <string name="UndoTranslate">Deshacer traducción</string>
     <string name="CopyDetails">Copiar Detalles</string>
-    <string name="DisablePhotoViewerSideAction">Desactivar \"Siguiente imágen al tocar\"</string>
+    <string name="DisablePhotoViewerSideAction">No cambiar de imagen con toques</string>
     <string name="BotToken">Tóken</string>
-    <string name="UnlimitedPinnedDialogs">Anclar ilimitados chats</string>
-    <string name="UnlimitedPinnedDialogsAbout">Permite anclar ilimitados chats, pero desactiva su sincronización.</string>
+    <string name="UnlimitedPinnedDialogs">Chats anclados ilimitados</string>
+    <string name="UnlimitedPinnedDialogsAbout">Ancla tantos chats como quieras, pero desactiva su sincronización.</string>
     <string name="OpenArchiveOnPull">Abrir Archivo al deslizar hacia abajo</string>
     <string name="HideKeyboardOnChatScroll">Ocultar teclado al desplazar el chat</string>
     <string name="UserRestrictionsSendStickers2">Enviar Stickers</string>
