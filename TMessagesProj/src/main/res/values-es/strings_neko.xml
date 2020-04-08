@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="NekoSettings">Ajustes de Neko</string>
+    <string name="NekoSettings">Ajustes de Nekogram</string>
     <string name="IPv6">Intentar conectar a través de IPv6</string>
     <string name="MessageMenu">Menú contextual</string>
     <string name="HidePhone">Ocultar mi número</string>
@@ -41,8 +41,8 @@
     <string name="TestBackendOff">Esta cuenta se conectará con el backend de producción.</string>
     <string name="HideProxySponsorChannel">Ocultar sponsor del proxy</string>
     <string name="ViewHistory">Ver historial</string>
-    <string name="Nya">Miau!</string>
-    <string name="SaveCacheToPrivateDirectory">Guardar cache en directorio privado*</string>
+    <string name="Nya">¡Miau!</string>
+    <string name="SaveCacheToPrivateDirectory">Guardar caché en directorio privado*</string>
     <string name="SensitiveDisableFiltering">Desactivar filtrado de contenido sensible</string>
     <string name="SensitiveAbout">Mostrar multimedia sensible en canales públicos en todos tus dispositivos.</string>
     <string name="StickerSize">Tamaño de stickers</string>
@@ -77,4 +77,8 @@
     <string name="UnlimitedPinnedDialogsAbout">Permite anclar ilimitados chats, pero desactiva su sincronización.</string>
     <string name="OpenArchiveOnPull">Abrir Archivo al deslizar hacia abajo</string>
     <string name="HideKeyboardOnChatScroll">Ocultar teclado al desplazar el chat</string>
+    <string name="UserRestrictionsSendStickers2">Enviar Stickers</string>
+    <string name="UserRestrictionsSendGifs">Enviar GIFs</string>
+    <string name="UseAvatarAsDrawerBackground">Avatar de fondo en menú lateral</string>
+    <string name="ShowTabsOnForward">Mostrar carpetas al reenviar</string>
 </resources>
