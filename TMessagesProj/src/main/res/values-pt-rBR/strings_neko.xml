@@ -80,4 +80,6 @@
     <string name="UserRestrictionsSendStickers2">Enviar Stickers</string>
     <string name="UserRestrictionsSendGifs">Enviar GIFs</string>
     <string name="UseAvatarAsDrawerBackground">Use o avatar como fundo da gaveta</string>
+    <string name="ShowTabsOnForward">Mostrar pasta no encaminhamento</string>
+    <string name="CheckAllAdministrated">Adicionar administrado</string>
 </resources>
