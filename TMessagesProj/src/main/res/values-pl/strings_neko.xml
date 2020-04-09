@@ -1,2 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<resources>
+    <string name="NekoSettings">Ustawienia Neko</string>
+    <string name="IPv6">Spróbuj połączyć się za pomocą protokołu IPv6</string>
+</resources>
