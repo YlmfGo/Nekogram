@@ -2,7 +2,6 @@
 ![Logo](https://raw.githubusercontent.com/Nekogram/Nekogram/master/TMessagesProj/src/main/res/mipmap-xxxhdpi/ic_launcher.png)  
 Nekogram is an UNOFFICIAL app that uses Telegram's API.
 
-- Google play store: https://play.google.com/store/apps/details?id=tw.nekomimi.nekogram
 - Update news (English): https://t.me/nekoupdates
 - Update news (Chinese): https://t.me/zuragram
 - APKs: https://github.com/Nekogram/Nekogram/releases
